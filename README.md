@@ -1,4 +1,4 @@
-# inside-ad
+# Inside
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-inside-ad is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://inside.ad/
+Inside is an AI‑powered platform that helps creators and advertisers grow audiences, monetize content, and collaborate. It offers tools for content planning, automatic publishing across channels, audience analytics, and revenue generation through ads and sponsorships. The service supports creators of all sizes, providing a dashboard, AI copilot, and community resources to streamline the creator journey from idea to income.
+
+**Areas:** AI · CreatorPlatform · Advertising · Monetization · Collaboration · Platform
+
+## Inside on APIs.io
+
+Everything profiled for Inside is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/inside-ad/](https://apis.io/providers/inside-ad/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Inside API](https://apis.io/apis/inside-ad/inside-ad-api/) — Inside API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-12); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PostAdsUploadimageRequest](https://apis.io/schemas/inside-ad/inside-ad-post-ads-uploadimage-request/)
+- [PostAdsUploadimageResponse](https://apis.io/schemas/inside-ad/inside-ad-post-ads-uploadimage-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Inside Ad Context](https://apis.io/jsonld/inside-ad/inside-ad-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Inside API Rules](https://apis.io/rules/inside-ad/inside-ad-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Inside Domain Security](https://apis.io/security/inside-ad/inside-ad-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://inside.ad/)
+- [Documentation](https://wiki.insideads.net/)
+- [API reference](https://inside.ad/llms.txt)
+- [Support](https://t.me/InsideAds_Support_bot)
+- [Blog](https://blog.inside.ad/en)
+- [Terms of service](https://inside.ad/terms-of-service.html)
+- [Privacy policy](https://inside.ad/privacy-policy.html)
+
+## API Evangelist rating
+
+**Kin Score 39.5** — developing · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.0 |
+| Contract quality | 46.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 34.2 |
+
+**Agent readiness 37.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/inside-ad/](https://apis.io/providers/inside-ad/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Inside: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/inside-ad/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
